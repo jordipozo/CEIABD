@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee914944-7d3a-4f64-bb8e-09a46cdde020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/Procesado de imagen.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/Procesado de imagen_solucion.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/lena_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/lena_generad2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/lena_generada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/OjoLena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/Procesado de imagen - II (OpenCV).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/Procesado de imagen - II (OpenCV)_resuelto.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/TransformacionesGeometricas.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/cameraman.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/concentrico.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/lena_gris.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/lena_generada1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/lena_gris.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/lena_gris.tif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/code/CEIABD/PROGRAMACION DE INTELIGENCIA ARTIFICIAL/NOTEBOOKS DEL AULA",
+    "last_opened_file_path": "E:/code/CEIABD/PROGRAMACION DE INTELIGENCIA ARTIFICIAL/NOTEBOOKS DEL AULA/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\CEIABD\PROGRAMACION DE INTELIGENCIA ARTIFICIAL\NOTEBOOKS DEL AULA\img" />
       <recent name="E:\code\CEIABD\PROGRAMACION DE INTELIGENCIA ARTIFICIAL\NOTEBOOKS DEL AULA" />
     </key>
   </component>
@@ -100,6 +106,11 @@
       <workItem from="1710349872991" duration="23000" />
       <workItem from="1712318450011" duration="4093000" />
       <workItem from="1712324995773" duration="5275000" />
+      <workItem from="1712659169723" duration="793000" />
+      <workItem from="1712660356574" duration="8716000" />
+      <workItem from="1712671700643" duration="189000" />
+      <workItem from="1712672118063" duration="1837000" />
+      <workItem from="1712673999724" duration="2279000" />
     </task>
     <servers />
   </component>
