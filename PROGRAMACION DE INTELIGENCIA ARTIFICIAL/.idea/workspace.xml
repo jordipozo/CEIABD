@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee914944-7d3a-4f64-bb8e-09a46cdde020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/OjoLena.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/Procesado de imagen - II (OpenCV).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/Procesado de imagen - II (OpenCV)_resuelto.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/TransformacionesGeometricas.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/cameraman.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/concentrico.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/left.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/img/lena_gris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/lena_generada1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/lena_gris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTEBOOKS DEL AULA/lena_gris.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ee914944-7d3a-4f64-bb8e-09a46cdde020" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/code/CEIABD/PROGRAMACION DE INTELIGENCIA ARTIFICIAL/NOTEBOOKS DEL AULA/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/code/CEIABD/PROGRAMACION DE INTELIGENCIA ARTIFICIAL/NOTEBOOKS DEL AULA/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\code\CEIABD\PROGRAMACION DE INTELIGENCIA ARTIFICIAL\NOTEBOOKS DEL AULA\img" />
@@ -111,6 +98,7 @@
       <workItem from="1712671700643" duration="189000" />
       <workItem from="1712672118063" duration="1837000" />
       <workItem from="1712673999724" duration="2279000" />
+      <workItem from="1712682828099" duration="51000" />
     </task>
     <servers />
   </component>
